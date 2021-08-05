@@ -2,3 +2,6 @@
 Resting place for image embeds
 <img src="VS_Code_Practice/small-profile.jpeg">
 ![image-repo](small-profile.jpeg)
+<img src="small-profile.jpeg">
+
+
